@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash echo "ALX school is cool!"
 =======
 #!/bin/bash echo "ALX"
 >>>>>>> refs/remotes/origin/master
+=======
+#!/bin/bash echo "ALX School"
+>>>>>>> update_script
